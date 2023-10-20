@@ -1,5 +1,4 @@
 # todo-list
 
 ## 설명
-
-TodoList를 만들어보자
+To doList를 만들어보자
